@@ -1,0 +1,567 @@
+
+/* ****************************************************** */
+         /* **responsive css media code start** */
+
+/* ****************************************************** */
+
+@media(min-width:265px) and (max-width:319px){
+/* *********css media quary start **************/
+
+    
+.header{
+        width: 100%;
+                     }
+.menu{
+       width:100%;
+          
+          }
+.menu .navbar-nav .nav-item .nav-link {
+       font-size: 16px;
+       margin: 0px 0px 0px 10px;
+       text-align: left;
+          
+          
+ }
+ .menu .navbar-nav .nav-item .btn-success{
+       padding: 6px 25px;
+       
+                    
+   }
+          
+          
+.banner{
+       width: 100%;
+       padding: 5px 0px;
+   }
+.inner-banner{
+       width: 100%;
+       padding: 10px  0px;
+   
+   }
+ .inner-banner h4{
+       font-size: 16px;
+       line-height: 26px;
+      
+       
+   }
+.inner-banner h1{
+       font-size: 25px;
+       line-height:35x;
+      
+   }
+   
+ 
+.inner-banner p {
+              font-size: 10px;
+              line-height: 21px;
+              margin: 10px;
+          }
+      
+.inner-banner .btn-success{
+       padding: 6px 20px;  
+       font-size: 14px;
+      
+      
+   }
+   .feature{
+       width: 100%;
+       padding: 0px;
+   }
+   .feature .inner-feature{
+       width: 100%;
+       padding: 10px;
+       margin: 10px 0px;
+       
+   
+   }
+   .online-section{
+       width: 100%;
+       padding: 0px 0px;
+   }
+   .online-section h1{
+       font-size: 30px;
+       margin: 20px 0px;
+      
+   }
+   .online-section .card{
+       padding: 20px;
+       margin: 10px 0px;
+   
+       
+       }
+       .testmonial{
+              width: 100%;
+              padding: 20px 0px;
+          }
+          .testmonial h1{
+              font-size: 40px;
+              line-height: 50x;              
+              margin: 20px 0px;
+           
+          }
+          .testmonial img{
+             width: 100%; 
+             height: 100%
+          }
+          .testmonial p{
+              font-size: 15px;
+              line-height: 24px;             
+              margin: 0px;   
+              padding: 20px 0px;
+          }
+
+          .footer{
+              width: 100%;
+              height: 100%;
+              padding: 10px 0px;
+          
+          }
+          .footer h5{
+              font-size: 16px;
+              line-height: 26px;
+              padding: 0px ;
+          }
+          
+          .footer  li{
+          list-style-type: none;
+          font-size: 15px;
+         
+          
+          }
+          .footer .footer-bottom{
+              text-align: center;
+              font-size: 16px;
+              margin-top: 10px;
+              margin-bottom: 10px;
+            
+              
+    
+       }
+}
+   
+/* *********css media quary end *****************/
+
+
+@media(min-width:319px) and (max-width:480px){
+ /* *********css media quary start **************/
+ .header{
+       width: 100%;
+      
+      
+                    }
+.menu{
+      width:100%;
+         
+         }
+.menu .navbar-nav .nav-item .nav-link {
+      font-size: 16px;
+      margin: 0px 0px 0px 10px;
+      text-align: right;
+         
+         
+}
+.menu .navbar-nav .nav-item .btn-success{
+       padding: 6px 25px;
+       
+                    
+   }
+
+        
+         
+.banner{
+      width: 100%;
+      padding: 10px 0px;
+  }
+.inner-banner{
+      width: 100%;
+      padding: 10px  0px ;
+  
+  }
+.inner-banner h4{
+      font-size: 16px;
+      line-height: 26px;
+     
+      
+  }
+.inner-banner h1{
+      font-size: 25px;
+      line-height:35x;
+     
+  }
+  
+
+.inner-banner p {
+       font-size: 12px;
+       line-height: 22px;
+       margin: 10px;
+         }
+     
+.inner-banner .btn-success{
+      padding: 6px 20px;  
+      font-size: 14px;
+     
+     
+  }
+  .feature{
+      width: 100%;
+      padding: 10px 0px;
+  }
+.feature .inner-feature{
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0px;
+      
+  
+  }
+.online-section{
+      width: 100%;
+      padding: 0px 0px;
+  }
+.online-section h1{
+      font-size: 30px;
+      margin: 20px 0px;
+     
+  }
+.online-section .card{
+      padding: 20px;
+      margin: 10px 0px;
+  
+      
+      }
+.testmonial{
+             width: 100%;
+             padding: 20px 0px;
+         }
+.testmonial h1{
+             font-size: 40px;
+             line-height: 50x;              
+             margin: 20px 0px;
+          
+         }
+.testmonial img{
+            width: 100%; 
+            height: 100%
+         }
+ .testmonial p{
+             font-size: 15px;
+             line-height: 24px;             
+             margin: 0px;   
+             padding: 20px 0px;
+         }
+
+.footer{
+             width: 100%;
+             height: 100%;
+             padding: 10px 0px;
+         
+         }
+.footer h5{
+             font-size: 16px;
+             line-height: 26px;
+             padding: 0px ;
+         }
+         
+.footer  li{
+         list-style-type: none;
+         font-size: 15px;
+        
+         
+         }
+.footer .footer-bottom{
+             text-align: center;
+             font-size: 16px;
+             margin-top: 10px;
+              margin-bottom: 10px;
+           
+             
+   
+      }
+}
+
+   
+/* *********css media quary end *****************/
+
+
+@media(min-width:480px) and (max-width:767px){
+/* *********css media quary start **************/
+.header{
+       width: 100%;
+      
+      
+                    }
+.menu{
+      width:100%;
+         
+         }
+.menu .navbar-nav .nav-item .nav-link {
+      font-size: 16px;
+      text-align: right;
+      margin: 0px 0px 0px 10px;
+         
+         
+         }
+.menu .navbar-nav .nav-item .btn-success{
+              padding: 6px 25px;
+              
+                           
+          }
+         
+.banner{
+      width: 100%;
+      padding: 10px 0px;
+  }
+.inner-banner{
+      width: 100%;
+      padding: 10px  0px ;
+  
+  }
+.inner-banner h4{
+      font-size: 18px;
+      line-height: 28px;
+     
+      
+  }
+.inner-banner h1{
+      font-size: 28px;
+      line-height:38x;
+     
+  }
+  
+
+.inner-banner p {
+       font-size: 16px;
+       line-height: 26px;
+       margin: 10px;
+         }
+     
+.inner-banner .btn-success{
+      padding: 6px 20px;  
+      font-size: 14px;
+     
+     
+  }
+.feature{
+      width: 100%;
+      padding: 10px 0px;
+  }
+.feature .inner-feature{
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0px;
+      
+  
+  }
+.online-section{
+      width: 100%;
+      padding: 0px 0px;
+  }
+.online-section h1{
+      font-size: 30px;
+      margin: 20px 0px;
+     
+  }
+.online-section .card{
+      padding: 20px;
+      margin: 10px 0px;
+  
+      
+      }
+.testmonial{
+             width: 100%;
+             padding: 20px 0px;
+         }
+.testmonial h1{
+             font-size: 40px;
+             line-height: 50x;              
+             margin: 20px 0px;
+          
+         }
+.testmonial img{
+            width: 100%; 
+            height: 100%
+         }
+ .testmonial p{
+             font-size: 15px;
+             line-height: 24px;             
+             margin: 0px;   
+             padding: 20px 0px;
+         }
+
+.footer{
+             width: 100%;
+             height: 100%;
+             padding: 10px 0px;
+         
+         }
+.footer h5{
+             font-size: 16px;
+             line-height: 26px;
+             padding: 0px ;
+         }
+         
+.footer  li{
+         list-style-type: none;
+         font-size: 15px;
+        
+         
+         }
+.footer .footer-bottom{
+              text-align: center;
+              font-size: 18px;
+              margin-top: 20px;
+              margin-bottom: 10px;
+           
+             
+   
+      }
+}   
+
+   
+/* *********css media quary end *****************/
+
+
+@media(min-width:767px) and (max-width:1024px){
+ /* *********css media quary start **************/
+ .header{
+       width: 100%;
+      
+      
+                    }
+.menu{
+      width:100%;
+         
+         }
+.menu .navbar-nav .nav-item .nav-link {
+      font-size: 16px;
+      text-align: right;
+      margin: 0px 0px 0px 10px;
+         
+         
+         }
+.menu .navbar-nav .nav-item .btn-success{
+              padding: 6px 25px;
+              
+                           
+          }
+         
+.banner{
+      width: 100%;
+      padding: 10px 0px;
+  }
+.inner-banner{
+      width: 100%;
+      padding: 10px  0px ;
+  
+  }
+.inner-banner h4{
+      font-size: 18px;
+      line-height: 28px;
+     
+      
+  }
+.inner-banner h1{
+      font-size: 32px;
+      line-height:42x;
+     
+  }
+  
+
+.inner-banner p {
+       font-size: 16px;
+       line-height: 26px;
+       margin: 10px;
+         }
+     
+.inner-banner .btn-success{
+      padding: 6px 20px;  
+      font-size: 14px;
+     
+     
+  }
+.feature{
+      width: 100%;
+      padding: 10px 0px;
+  }
+.feature .inner-feature{
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0px;
+      
+  
+  }
+.online-section{
+      width: 100%;
+      padding: 0px 0px;
+  }
+.online-section h1{
+      font-size: 30px;
+      margin: 20px 0px;
+     
+  }
+.online-section .card{
+      padding: 20px;
+      margin: 10px 0px;
+  
+      
+      }
+.testmonial{
+             width: 100%;
+             padding: 20px 0px;
+         }
+.testmonial h1{
+             font-size: 40px;
+             line-height: 50x;              
+             margin: 20px 0px;
+          
+         }
+.testmonial img{
+            width: 100%; 
+            height: 100%
+         }
+ .testmonial p{
+             font-size: 15px;
+             line-height: 24px;             
+             margin: 0px;   
+             padding: 20px 0px;
+         }
+
+.footer{
+             width: 100%;
+             height: 100%;
+             padding: 10px 0px;
+         
+         }
+.footer h5{
+             font-size: 16px;
+             line-height: 26px;
+             padding: 0px ;
+         }
+         
+.footer  li{
+         list-style-type: none;
+         font-size: 15px;
+        
+         
+         }
+.footer .footer-bottom{
+              text-align: center;
+              font-size: 18px;
+              margin-top: 20px;
+              margin-bottom: 10px;
+           
+             
+   
+      }
+    
+
+   
+/* *********css media quary end *****************/
+}
+
+
+@media(min-width:1025px) and (max-width:1200px){
+       /* *********css media quary start **************/
+       
+   
+/* *********css media quary end *****************/
+}
